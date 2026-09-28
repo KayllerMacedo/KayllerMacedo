@@ -4,3 +4,6 @@
 
 Esse perfil foi criado por um único propósito: Para postar meus códigos que faço durante as aulas. então, não espere muita coisa.
 
+O que estou aprendendo no momento:
+
+* Python
