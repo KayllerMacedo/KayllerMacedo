@@ -11,7 +11,7 @@ Meu nome é **Kayller Wendel Pereira de Macedo**, atualmente sou estudante do **
 
 Sou apaixonado por tecnologia, lógica e inovação. Minha jornada está focada em construir uma base sólida em engenharia de software, desenvolvendo competências desde a lógica de programação até a integração com banco de dados, desenvolvimento web e soluções para Internet das Coisas (IoT).
 
-- 🏫 **Instituição:** SENAI / CEJO
+- 🏫 **Instituição:** CEJO
 - 📚 **Curso:** Técnico em Desenvolvimento de Sistemas
 - 💡 **Áreas de Interesse:** Desenvolvimento Back-end, Automação em Python, Banco de Dados e Projetos IoT
 - 🌱 **Foco Atual:** Prática constante de resolução de problemas, criação de projetos com Python e estruturação de bancos de dados.
@@ -49,17 +49,8 @@ Sou apaixonado por tecnologia, lógica e inovação. Minha jornada está focada 
 
 Aqui estão alguns dos projetos desenvolvidos durante minha formação:
 
-| Projeto | Descrição | Tecnologias | Link |
+| Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- | :--- |
-| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` | [Acessar](#) |
-| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` | [Acessar](#) |
-| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` | [Acessar](#) |
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
-</div>
+| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` |
+| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` |
+| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` |
