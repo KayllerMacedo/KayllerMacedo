@@ -49,8 +49,17 @@ Sou apaixonado por tecnologia, lógica e inovação. Minha jornada está focada 
 
 Aqui estão alguns dos projetos desenvolvidos durante minha formação:
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
-| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` |
-| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` |
-| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` |
+| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` | [Acessar](#) |
+| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` | [Acessar](#) |
+| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` | [Acessar](#) |
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayllerMacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllerMacedo&layout=compact&theme=tokyonight"/>
+</div>
