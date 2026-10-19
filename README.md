@@ -1,4 +1,4 @@
-# Olá, eu sou o Kayller! 👋
+# Olá, eu sou o Kayller Wendel! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Kayller+Wendel+P.+de+Macedo;Desenvolvimento+de+Sistemas+%7C+SENAI+%2F+CEJO;Python+%7C+Web+%7C+Banco+de+Dados+%7C+IoT" alt="Typing SVG" />
@@ -11,7 +11,7 @@ Meu nome é **Kayller Wendel Pereira de Macedo**, atualmente sou estudante do **
 
 Sou apaixonado por tecnologia, lógica e inovação. Minha jornada está focada em construir uma base sólida em engenharia de software, desenvolvendo competências desde a lógica de programação até a integração com banco de dados, desenvolvimento web e soluções para Internet das Coisas (IoT).
 
-- 🏫 **Instituição:** CEJO
+- 🏫 **Instituição:** SENAI / CEJO
 - 📚 **Curso:** Técnico em Desenvolvimento de Sistemas
 - 💡 **Áreas de Interesse:** Desenvolvimento Back-end, Automação em Python, Banco de Dados e Projetos IoT
 - 🌱 **Foco Atual:** Prática constante de resolução de problemas, criação de projetos com Python e estruturação de bancos de dados.
@@ -49,11 +49,11 @@ Sou apaixonado por tecnologia, lógica e inovação. Minha jornada está focada 
 
 Aqui estão alguns dos projetos desenvolvidos durante minha formação:
 
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` | [Acessar](#) |
-| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` | [Acessar](#) |
-| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` | [Acessar](#) |
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **📌 Projeto Lógica / Python** | Aplicação desenvolvida para resolver problemas de lógica e automação. | `Python` `Lógica` |
+| **📌 Interface Web** | Projeto de página web interativa e estruturada desenvolvida no curso. | `HTML5` `CSS3` |
+| **📌 Protótipo IoT** | Projeto prático envolvendo conceitos de sensores e Internet das Coisas. | `IoT` `Python` |
 
 ---
 
@@ -63,3 +63,11 @@ Aqui estão alguns dos projetos desenvolvidos durante minha formação:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayllerMacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllerMacedo&layout=compact&theme=tokyonight"/>
 </div>
+
+---
+
+### 📬 Vamos nos conectar?
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KayllerMacedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
